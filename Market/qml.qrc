@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>MainPage.qml</file>
+        <file>MainPageForm.ui.qml</file>
+        <file>qml.qrc</file>
+        <file>Button.qml</file>
+        <file>SubProduct.qml</file>
+        <file>SubList.qml</file>
+        <file>../../../Desktop/r1.jpeg</file>
+        <file>../../../Desktop/r2.jpg</file>
+        <file>../../../Desktop/r3.jpg</file>
+        <file>../../../Desktop/tulanh.jpg</file>
+        <file>../../../Desktop/tv.jpeg</file>
+        <file>../../../Desktop/web_beginer.html</file>
+        <file>Detail.qml</file>
+        <file>PromotionTab.qml</file>
+        <file>ItemDelegateImplement.qml</file>
+        <file>Basket.qml</file>
+        <file>ItemBasket.qml</file>
+        <file>BasketButtonRemove.qml</file>
+        <file>CustomTabBasket.qml</file>
+    </qresource>
+</RCC>
